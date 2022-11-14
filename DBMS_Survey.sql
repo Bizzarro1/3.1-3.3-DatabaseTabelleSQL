@@ -3,10 +3,3 @@ Id; DBMS; Società/Ente; Anno; Licenza;
 2; PostgreSQL; PostgrSQL GDG; 1996; Open Source;
 3; Oracle Dabase; Oracle Corporation; 1979; Proprietario; 
 4; IBM DB2; IBM; 2004; Proprietario; 
-
-
-Id; Tipi_numerici; Intervallo
-1;
-2;
-3;
-4;
